@@ -9,8 +9,8 @@
 #include <NTPClient.h>
 
 // WiFi credentials
-char ssid[] = "One Plus 7";       // Replace with your WiFi name
-char pass[] = "Atharv@123";       // Replace with your WiFi password
+char ssid[] = "Samsung A30S";       // Replace with your WiFi name
+char pass[] = "Mayu@2705";       // Replace with your WiFi password
 
 // IR Sensor Pins
 const int irEntry = D5;
